@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    transition: 2s;
+}
+.Cmp{
+    margin: 0% 10%;
+    width: 1000px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+#h12{
+    margin-top: 15px;
+    width: 1150px;
+    margin: 15px 4%;
+    background-color: rgb(187, 115, 39);
+    border-radius: 20px;
+    /* height: 2px; */
+}
+.Cmp1{
+    color: rgb(59, 57, 57);
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 20px;
+}
+.active{
+    color: red;
+    /* font-size: 30px; */
+}
+/* .Cmp1:hover{
+    color: coral;
+    font-size: 25px;
+} */

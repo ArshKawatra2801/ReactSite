@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 1px;
+    font-family: 'Poppins',sans-serif;
+    /* border: none; */
+}
+.mjr{
+    display:block;
+    /* background-color: black; */
+    height: 500px;
+    margin:25px auto auto auto;
+    width: 950px;
+    padding: 25px 25px 0px 25px;
+}
+.i1{
+    background-image: url(https://www.highreshdwallpapers.com/wp-content/uploads/2017/05/Surreal-Space-Wallpaper.jpg);
+    background-size: cover;
+    height: 480px;
+    border-radius: 10px;
+    margin-left: 15px;
+    /* margin-top: 15px; */
+    width: 570px;
+    float: left;
+}
+.i2{
+    background-image: url(https://www.highreshdwallpapers.com/wp-content/uploads/2017/05/Surreal-Space-Wallpaper.jpg);
+    background-repeat: no-repeat;
+    height: 225px;
+    border-radius: 10px;
+    width: 35%;
+    margin: 0px 15px 7.5px 0px;
+    float: right;
+    background-size: cover;
+}
+.i3{
+    background-image: url(https://www.highreshdwallpapers.com/wp-content/uploads/2017/05/Surreal-Space-Wallpaper.jpg);
+    background-size: cover;
+    height: 230px;
+    border-radius: 10px;
+    margin: 15px 15px 0px 0px;
+    width: 35%;
+    float: right;
+}
+.hh{
+    margin-top: 25px;
+    margin-left: 14%;
+}
+.un{
+    height: 2px;
+    background-color:darkorange;
+    width: 85px;
+    margin-left: 14%;
+    border-radius: 75%;
+}
+.un1{
+    height: 2px;
+    background-color:darkorange;
+    width: 85px;
+    border-radius: 75%;
+}
+.lts{
+    display: flex;
+    margin-left: 13%;
+    height: 370px;
+    width: 1000px;
+    /* background-color: black; */
+    justify-content: space-around;
+}
+.hdn{
+    margin-left: 14%;
+}
+.sbln{
+    width: 500px;
+    /* background-color: black; */
+}
+.lts1{
+    margin-left: 14%;
+    /* background-color: black; */
+    justify-content: space-around;
+}
+.lts2{
+    margin-left: 14%;
+    display: flex;
+    width: 1000px;
+}
+.md{
+    /* background-color: red;    */
+    margin: auto;
+    display: flex;
+    /* width: 95%; */
+}
+.adv{
+    display: flex;
+    margin-top: 5%;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    border: 2px solid black;
+}
+.md1{
+    margin-left: 14%;
+}
+.tpd{
+    margin-left: 5%;
+}
+.tpd1{
+    margin-top: 25px;
+    /* background-color: orange; */
+}
+.mjrt{
+    background-image: url(https://images.unsplash.com/photo-1541110729715-84eeda8be2be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFuZHNjYXBlJTIwdmlld3xlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-size: cover;
+    height: 350px;
+    width: 600px;
+    background-color: gray;
+    margin-top: 16%;
+}
+.b3{
+    color: white;
+    font-weight: 400;
+    margin-left: 5%;
+    margin-top: 50%;
+}

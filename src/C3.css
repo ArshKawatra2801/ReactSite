@@ -1,0 +1,19 @@
+.d110{
+    display: flex;
+    width: 500px;
+    /* background-color: black; */
+    height: 230px;
+    margin: 25px 0px;
+}
+#ml{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(105, 103, 103);
+}
+#ml2{
+    margin-left: 10px;
+}
+.d12{
+    float: right;
+    color: black;
+}

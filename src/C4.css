@@ -1,0 +1,25 @@
+.d111{
+    display: flex;
+    width: 300px;
+    /* background-color: black; */
+    height: 80px;
+    margin: 25px 0px;
+}
+#ml1{
+    margin-top: 3px;
+    font-size: 12px;
+    margin-left: 10px;
+    color: black;
+    font-size: 12px;
+}
+#ml21{
+    margin-left: 10px;
+}
+.d121{
+    float: right;
+    color: black;
+}
+.igl1{
+    height: 90px;
+    float: left;
+}
